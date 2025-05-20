@@ -1,5 +1,5 @@
 # Rock-paper-Scissors-Game
-This is a basic Rock Paper Game Written in Python.
+This is a basic Rock🪨 Paper📃 Scissor ✂️Game Written in Python .
 <br>
 Just clone this repository to your local machine and run the program to Play the game.
 <br>
